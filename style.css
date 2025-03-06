@@ -2,4 +2,15 @@ h1 {
     color: #ba0660;
     font-size: 2rem;
     font-family: Arial, sans-serif;
+    text-align: right;
+}
+
+h3{
+    color: #ce9f06;
+    font-family:Arial, Helvetica, sans-serif
+}
+<!--Adding background colour to Top NavBar-->
+.topnav{
+    background-color: #ba0660;
+    overflow: hidden;
 }
