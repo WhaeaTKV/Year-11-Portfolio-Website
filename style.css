@@ -1,8 +1,39 @@
 h1 {
    color: orange; 
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 50px;
+   text-align: center;
+}
+h2 {
+    color: rgb(228, 109, 18);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+.special_title {
+    color: purple;
+}
+
+.purple_paragraph {
+    color: purple;
 }
 
 p {
     color: rgb(228, 109, 18);
-    font
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    text-align: end;
+
+}
+
+img {
+    width: 350px;
+    float: right;
+    border-color: rgb(51, 190, 190);
+}
+
+body {
+    background-color: rgb(255, 201, 201);
+
 }
