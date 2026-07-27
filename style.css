@@ -7,6 +7,12 @@
         text-align: center;
     }
 
+    h2 {
+        color: #ba0660;
+        text-align: left;
+        font-family:Arial, Helvetica, sans-serif;
+    }
+
     h3 {
         color: #ba0660;
         text-align: center;
